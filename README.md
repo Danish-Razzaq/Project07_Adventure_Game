@@ -11,3 +11,17 @@ The game is implemented using TypeScript, which provides type safety and a more 
 This project is suitable for developers who want to learn TypeScript and build a simple game using Node.js. It can also serve as a starting point for more complex adventure games with more advanced features and mechanics.
 
 Overall, this adventure game project is a fun and engaging way to learn TypeScript and Node.js, while also building a fully functional game that can be played by anyone with a terminal and a sense of adventure.
+
+
+## Installation
+
+To install and use the Number Guessing Game, follow these steps:
+
+1. Make sure you have [Node.js](https://nodejs.org) installed on your machine.
+
+2. Open a terminal or command prompt.
+
+3. Run the following command to install the game package from npm:
+
+   ```bash
+npm i dani_adventure_game
