@@ -24,4 +24,4 @@ To install and use the Number Guessing Game, follow these steps:
 3. Run the following command to install the game package from npm:
 
    ```bash
-npm i dani_adventure_game
+   npm i dani_adventure_game
